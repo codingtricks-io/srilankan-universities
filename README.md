@@ -51,7 +51,7 @@ $ composer install
 $ php artisan serve
 ```
 ## To add new Entity to Package
-Navigate to <b>vendor->dinushchathurya->srilankan-universities->src->University.ph</b> file and add your entity.
+Navigate to <b>vendor->dinushchathurya->srilankan-universities->src->University.php</b> file and add your entity.
 
 ## Author
 [Dinush Chathurya](https://dinushchathurya.github.io/)
