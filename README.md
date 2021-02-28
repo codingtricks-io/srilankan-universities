@@ -83,6 +83,9 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 https://codingtricks.io/
 
+## Tutorial
+https://codingtricks.io/ajax-dependent-university-faculty-degree-dropdown/
+
 ## 
 
 <p ><h2 align="center">Happy<i class="fa fa-heart" style="color:red;"></i> Coding<i class="fa fa-code" style="color:orange;"> </i></h2></p>
